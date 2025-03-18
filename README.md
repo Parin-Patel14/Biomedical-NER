@@ -37,7 +37,7 @@ It implements **Transformer-based architectures** like **BERT and BioBERT**, com
 | **BERT + BiLSTM** | **95.1%** | **94.8%** | **94.9%** |  
 | **BioBERT + CRF** | **95.3%** | **95.0%** | **95.1%** |  
 
-📌 **Conclusion:** The **BioBERT + CRF model** achieved the **highest F1-score (95.1%)**, making it the most effective approach for biomedical NER.  
+ **Conclusion:** The **BioBERT + CRF model** achieved the **highest F1-score (95.1%)**, making it the most effective approach for biomedical NER.  
 
 ---
 
@@ -49,7 +49,7 @@ It implements **Transformer-based architectures** like **BERT and BioBERT**, com
 
 ---
 
-## 🛠 Technologies Used  
+##  Technologies Used  
 - **Python** (TensorFlow, PyTorch, Transformers)  
 - **Natural Language Processing (NLP)** (spaCy, NLTK, SciBERT)  
 - **Deep Learning Models** (BERT, BioBERT, BiLSTM, CRF)  
